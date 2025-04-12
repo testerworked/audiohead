@@ -2,16 +2,23 @@
 sample audio assistant
 
 ---
+<br>
 virtualenv .
+<br>
 source bin/activate
+<br>
 
 
 pip install flask
+<br>
 pip3 install pyttsx3
+<br>
 pip install SpeechRecognition
+<br>
 
 
 python app.py 
+<br>
 
 
 Running on http://127.0.0.1:5000
